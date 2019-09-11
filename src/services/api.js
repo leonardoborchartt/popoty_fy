@@ -12,25 +12,25 @@ export function loadLists() {
           },
           {
             id: 2,
-            content: 'Criar vídeo para o Youtube ensinando a recriar a interface do Pipefy',
+            content: 'Tomar uns latão com os amigos',
             labels: ['#7159c1'],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
           },
           {
             id: 3,
-            content: 'Estudar módulo 03 de React Native',
+            content: 'Estudar mais um pouco',
             labels: ['#7159c1'],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
           },
           {
             id: 4,
-            content: 'Gravar Aula "NextJS: Utilizando server-side rendering com ReactJS"',
+            content: 'Fazer uma hora de caminhada',
             labels: ['#54e1f7'],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
           },
           {
             id: 5,
-            content: 'Gravar testes e deploy ReactJS',
+            content: 'Programar um portifólio',
             labels: ['#54e1f7'],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
           },
@@ -42,7 +42,7 @@ export function loadLists() {
         cards: [
           {
             id: 6,
-            content: 'Recriando clone do Pipefy',
+            content: 'Recriando clone de um organizador de tarefas famoso',
             labels: [],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
           }
@@ -54,13 +54,13 @@ export function loadLists() {
         cards: [
           {
             id: 7,
-            content: 'Gravar sobre Geolocalização e mapas com React Native',
+            content: 'Estudar para concursos',
             labels: ['#7159c1'],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
           },
           {
             id: 8,
-            content: 'Gravar testes e deploy ReactJS',
+            content: 'Sair em festas',
             labels: ['#54e1f7'],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
           },
@@ -78,17 +78,17 @@ export function loadLists() {
         cards: [
           {
             id: 10,
-            content: 'Gravar aula sobre deploy e CI com React Native',
+            content: 'Testar como enviar projeto ReactJS para heroku',
             labels: [],
           },
           {
             id: 12,
-            content: 'Gravar testes e deploy ReactJS',
+            content: 'Baixar curso de Node.js',
             labels: ['#54e1f7'],
           },
           {
             id: 13,
-            content: 'Gravar Aula "Internacionalização de aplicações Node.js, ReactJS e React Native"',
+            content: 'Aprender como usar o Git ',
             labels: ['#7159c1'],
           }
         ]
