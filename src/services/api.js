@@ -45,6 +45,12 @@ export function loadLists() {
             content: 'Recriando clone de um organizador de tarefas famoso',
             labels: [],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
+          },
+          {
+            id: 7,
+            content: 'Aprender a linguagem Javascript',
+            labels: [],
+            user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
           }
         ]
       },
@@ -53,19 +59,19 @@ export function loadLists() {
         creatable: false,
         cards: [
           {
-            id: 7,
+            id: 8,
             content: 'Estudar para concursos',
             labels: ['#7159c1'],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
           },
           {
-            id: 8,
+            id: 9,
             content: 'Sair em festas',
             labels: ['#54e1f7'],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
           },
           {
-            id: 9,
+            id: 10,
             content: 'Ajustes na biblioteca unform',
             labels: [],
           }
@@ -77,7 +83,7 @@ export function loadLists() {
         done: true,
         cards: [
           {
-            id: 10,
+            id: 11,
             content: 'Testar como enviar projeto ReactJS para heroku',
             labels: [],
           },
