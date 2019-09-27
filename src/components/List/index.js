@@ -6,7 +6,9 @@ import Card from '../Card';
 
 import { Container } from './styles';
 
-
+function handleClick(){
+  window.alert("Eu sabia que iria clicar nesse botao mas ele não faz nada, talkey?!");
+}
 
 export default function List({ data, index:listIndex }) {
   return (
@@ -17,7 +19,7 @@ export default function List({ data, index:listIndex }) {
 
         {data.creatable && (
           <button type="button">
-            <MdAdd size={20} color="#FFF" />
+            <MdAdd size={20} color="#FFF"  onClick={handleClick}/>
           </button>
         )}
 

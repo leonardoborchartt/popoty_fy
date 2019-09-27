@@ -30,13 +30,7 @@ export function loadLists() {
             content: 'Conteúdo 04',
             labels: ['#54e1f7'],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
-          },
-          {
-            id: 5,
-            content: 'Conteúdo 05',
-            labels: ['#54e1f7'],
-            user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
-          },
+          }
         ]
       },
       { 
