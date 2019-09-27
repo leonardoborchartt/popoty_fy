@@ -17,15 +17,17 @@ export const Container = styled.div`
        
       h2{
         font-weight:500;
-        font-size:16px;
+        font-size:20px;
         padding: 0 10px;
       }
       button{
-        height:42px;
-        width:42px;
+        padding-down:10px;
+        height:26px;
+        width:26px;
         border-radius: 18px;
         background: #3b5bfd;
         border:0;  
+        
         cursor:pointer;
 
       }

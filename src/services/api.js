@@ -62,13 +62,13 @@ export function loadLists() {
             id: 8,
             content: 'Conteúdo 08 ',
             labels: ['#7159c1'],
-            user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
+            user: 'https://i.ibb.co/42t6bzQ/IMG-20180126-193907.jpg'
           },
           {
             id: 9,
             content: 'Conteúdo 09',
             labels: ['#54e1f7'],
-            user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
+            user: 'https://i.ibb.co/42t6bzQ/IMG-20180126-193907.jpg'
           },
           {
             id: 10,

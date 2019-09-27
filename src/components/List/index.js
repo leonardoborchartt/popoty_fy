@@ -17,7 +17,7 @@ export default function List({ data, index:listIndex }) {
 
         {data.creatable && (
           <button type="button">
-            <MdAdd size={24} color="#FFF" />
+            <MdAdd size={20} color="#FFF" />
           </button>
         )}
 
