@@ -61,7 +61,9 @@ export default function Card({ data, index, listIndex }) {
       </header>
       <p>{data.content}</p>
       {data.user && <img src={data.user} alt="" />}
-    </Container>
+      <p>{data.description}</p>
+     
+     </Container>
 
   );
 }
