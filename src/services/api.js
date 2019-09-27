@@ -45,7 +45,7 @@ export function loadLists() {
         cards: [
           {
             id: 6,
-            content: 'Conteúdo 06',
+            content: 'Conteúdo 06', 
             description:"$git status $git add . $git commit -m  $ $git push",
             labels: ["green"],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
