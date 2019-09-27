@@ -6,31 +6,31 @@ export function loadLists() {
         cards: [
           {
             id: 1,
-            content: 'Estudar módulo 01 de NodeJS',
+            content: 'Conteúdo 01 ',
             labels: ['#7159c1'],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
           },
           {
             id: 2,
-            content: 'Tomar uns latão com os amigos',
+            content: 'Conteúdo 02',
             labels: ['#7159c1'],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
           },
           {
             id: 3,
-            content: 'Estudar mais um pouco',
+            content: 'Conteúdo 03',
             labels: ['#7159c1'],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
           },
           {
             id: 4,
-            content: 'Fazer uma hora de caminhada',
+            content: 'Conteúdo 04',
             labels: ['#54e1f7'],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
           },
           {
             id: 5,
-            content: 'Programar um portifólio',
+            content: 'Conteúdo 05',
             labels: ['#54e1f7'],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
           },
@@ -42,13 +42,13 @@ export function loadLists() {
         cards: [
           {
             id: 6,
-            content: 'Recriando clone de um organizador de tarefas famoso',
+            content: 'Conteúdo 06',
             labels: [],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
           },
           {
             id: 7,
-            content: 'Aprender a linguagem Javascript',
+            content: 'Conteúdo 07',
             labels: [],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
           }
@@ -60,19 +60,19 @@ export function loadLists() {
         cards: [
           {
             id: 8,
-            content: 'Estudar para concursos',
+            content: 'Conteúdo 08 ',
             labels: ['#7159c1'],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
           },
           {
             id: 9,
-            content: 'Sair em festas',
+            content: 'Conteúdo 09',
             labels: ['#54e1f7'],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
           },
           {
             id: 10,
-            content: 'Ajustes na biblioteca unform',
+            content: 'Conteúdo 10',
             labels: [],
           }
         ]
@@ -89,12 +89,12 @@ export function loadLists() {
           },
           {
             id: 12,
-            content: 'Baixar curso de Node.js',
+            content: 'Conteúdo 11',
             labels: ['#54e1f7'],
           },
           {
             id: 13,
-            content: 'Aprender como usar o Git ',
+            content: 'Conteúdo 13 ',
             labels: ['#7159c1'],
           }
         ]
