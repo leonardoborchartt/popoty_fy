@@ -17,7 +17,13 @@ export function loadLists() {
             description:'React é menos verboso que angular.',
             labels: ['#7159c1'],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
-          },
+          }
+        ]
+      },
+      { 
+        title: 'Fazendo', 
+        creatable: false,
+        cards: [
           {
             id: 3,
             content: 'Conteúdo 03',
@@ -30,23 +36,11 @@ export function loadLists() {
             content: 'Conteúdo 04',
             labels: ['#54e1f7'],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
-          }
-        ]
-      },
-      { 
-        title: 'Fazendo', 
-        creatable: false,
-        cards: [
+          },
           {
             id: 6,
             content: 'Conteúdo 06', 
             description:"$git status $git add . $git commit -m  $ $git push",
-            labels: ["green"],
-            user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
-          },
-          {
-            id: 7,
-            content: 'Conteúdo 07',
             labels: ["green"],
             user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
           }
@@ -56,6 +50,12 @@ export function loadLists() {
         title: 'Pausado', 
         creatable: false,
         cards: [
+          {
+            id: 7,
+            content: 'Conteúdo 07',
+            labels: ["green"],
+            user: 'https://i.ibb.co/GJZ4t77/6974630.jpg'
+          },
           {
             id: 8,
             content: 'Conteúdo 08 ',
