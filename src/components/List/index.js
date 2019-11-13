@@ -1,16 +1,17 @@
 import React from 'react';
 
-import { MdAdd } from 'react-icons/md';
+
+import { IoIosAddCircleOutline } from "react-icons/io";
 
 import Card from '../Card';
 
 import { Container } from './styles';
 
-function handleClick(){
+function handleClick() {
   window.alert("Eu sabia que iria clicar nesse botao mas ele não faz nada, talkey?!");
 }
 
-export default function List({ data, index:listIndex }) {
+export default function List({ data, index: listIndex }) {
   return (
 
     <Container done={data.done}>
@@ -18,11 +19,9 @@ export default function List({ data, index:listIndex }) {
         <h2>{data.title}</h2>
 
         {data.creatable && (
-          <button type="button">
-            <MdAdd size={20} color="#FFF"  onClick={handleClick}/>
-          </button>
+            <IoIosAddCircleOutline size={30} color="#000" onClick={handleClick} />
         )}
-
+    
       </header>
 
       <ul>
@@ -31,7 +30,7 @@ export default function List({ data, index:listIndex }) {
             key={card.id}
             listIndex={listIndex}
             index={index}
-            data={card} 
+            data={card}
           />))}
       </ul>
     </Container>
